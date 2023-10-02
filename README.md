@@ -1,3 +1,4 @@
+![Practical Chemistry](Resources/logo.png)
 # Practical Chemistry
 Making money and experimenting as an individual by using chemistry
 
