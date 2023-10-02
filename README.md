@@ -4,12 +4,14 @@ Making money and experimenting as an individual by using chemistry
 
 ## Organic Chemistry
 ### Chemistry of Food
-Studying compounds foods is more efficient than studying isolated molecules. Akin to lifting weights, it's more efficient to do compound exercises first and then study the isolated molecules
-By doing this, there is reason to experiment isolated and finding new molecules.
+Studying compounds foods is more efficient than studying isolated molecules. Akin to lifting weights, it's more efficient to do compound exercises first and then study the isolation exercies.
+By doing this, there is reason to experiment and isolate compounds and molecules.
 #### Protein
 1. Vegetable Proteins
 2. Meat Proteins
+   
 Or better yet explained
+
 1. Incomplete Proteins
 2. Complete Proteins
 #### Beauty and Body Products
@@ -59,6 +61,7 @@ Used for planes, trains, and automobiles
 ## Quantum Chemistry and Physics
 ### Using 2D programs like javascript to create models for free
 ### Using 3D programs like Blender and Unity to create models for free
+
 
 Copyright (c) 2023 Eric Ung
 
