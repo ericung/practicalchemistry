@@ -46,6 +46,14 @@ Used for planes, trains, and automobiles
 		* Parts of batteries and their ability to store electricity
 	* Wires
 		* Types of and their ability to handle electricity
+### Components of a Computer
+* Parts of Computer
+	* CPU
+	* RAM
+	* Hard Drive - HDDs and SSDs
+	* Motherboards
+	* Circuits
+	* Fans
 #### Types of Recyclable Trash
 
 ## Quantum Chemistry and Physics
