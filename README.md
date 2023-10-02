@@ -22,6 +22,9 @@ Or better yet explained
 Used for planes, trains, and automobiles
 * Lubricants for oils like grease
 * Petroleum, fuel and gas => Their cost => Working at a gas station
+#### Painting
+* Painting houses, appliances, and metal
+* Stripping, priming, and finishing wood
 #### Types of Compostable Trash
 
 ## Inorganic Chemistry
