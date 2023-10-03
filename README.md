@@ -15,10 +15,16 @@ Or better yet explained
 
 1. Incomplete Proteins
 2. Complete Proteins
+
+Figuring out how to get adequate protein intake is important for strength goals
+* Slowly increase the intake of protein to body weight or whatever weight you desire
 ------
 #### Carbohydrates
 1. Simple Carbohydrates
 2. Complex Carbohydrates
+
+Figure out how to get adequate carbohydrate intake is important for cardio goals
+* Figure out the proper amount
 ------
 #### Fat
 ##### Bad Fats
@@ -27,16 +33,25 @@ Or better yet explained
 ##### Good Fats
 1. Monounsaturated
 2. Polyunsaturated 
-------
+
 Food Oils
 * Edible oils ie. fish oils
 * Cooking oils ie. peanut oils
+
+Figure out how much fat is needed not just for fitness but for brain activity. Fats play a part in mental gymnastics
+* Figure out the right amount
 ------
 ### Beauty and Body Products
 1. Starting with the basics
 	* Natural Compounds for facial skin care
+		* Got acne?
+		* Want smooth skin?
 	* Natural compounds for body care ie. sunscreen and lotion
+		* Best sun screen for you
+		* Get smoother skin?
 	* Compounds for nails and dying hair
+		* Best polish and paint for nails
+		* Best dye for you
 2. Working at barbershops, nail salons, beauty parlors, and massage rooms
 ------
 ### Whats in your body
