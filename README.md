@@ -54,8 +54,6 @@ Figure out how much fat is needed not just for fitness but for brain activity. F
 		* Best dye for you
 2. Working at barbershops, nail salons, beauty parlors, and massage rooms
 ------
-### Whats in your body
-------
 ### Non-Edible Oils
 Used for planes, trains, and automobiles
 * Lubricants for oils like grease
@@ -65,7 +63,7 @@ Used for planes, trains, and automobiles
 * Painting houses, appliances, and metal
 * Stripping, priming, and finishing wood
 ------
-### Types of Compostable Trash
+### Recyclable Trash
 
 -----
 ## Inorganic Chemistry
@@ -90,7 +88,7 @@ Used for planes, trains, and automobiles
 * All purpose
 * Baking Soda
 ------
-#### Types of Recyclable Trash
+#### Recyclable Trash
 ------
 
 ## Electrochemistry
@@ -104,6 +102,8 @@ Used for planes, trains, and automobiles
 	* Wires
 		* Types of and their ability to handle electricity
 ------
+* Cac
+------
 ### Components of a Computer
 * Parts of Computer
 	* CPU
@@ -113,8 +113,7 @@ Used for planes, trains, and automobiles
 	* Circuits
 	* Fans
 ------
-#### Types of Recyclable Trash
-
+#### Recyclable Trash
 ------
 
 ## Quantum Chemistry and Physics
