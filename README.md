@@ -74,7 +74,8 @@ Used for planes, trains, and automobiles
 ### Mechanical things and the most effective solutions for transportation
 * Bicycles and their materials
 * Cars and their materials
-* Being a professional truck driver
+* Being a driver
+* Being a mechanic
 ------
 ### 3D Printing and Choosing the best materials for the cost
 * Home 3D Printing and 3D programs to create tools
@@ -101,8 +102,7 @@ Used for planes, trains, and automobiles
 		* Parts of batteries and their ability to store electricity
 	* Wires
 		* Types of and their ability to handle electricity
-------
-* Cac
+* Making a dashboard that computes weather if you can't fund it
 ------
 ### Components of a Computer
 * Parts of Computer
@@ -112,6 +112,7 @@ Used for planes, trains, and automobiles
 	* Motherboards
 	* Circuits
 	* Fans
+* Working as a computer technician
 ------
 #### Recyclable Trash
 ------
