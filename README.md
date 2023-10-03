@@ -14,6 +14,7 @@ By doing this, there is reason and intuition to experiment and isolate compounds
 Or better yet explained
 
 1. Incomplete Proteins
+2. Complete Proteins
 ------
 #### Carbohydrates
 1. Simple Carbohydrates
@@ -103,7 +104,11 @@ Used for planes, trains, and automobiles
 
 ## Quantum Chemistry and Physics
 ### Using 2D programs like javascript to create models for free
+* Figure out the distance formula between two points
+* Figure out how rotation of an image works
+* Figure out how gravity works on a 2D plane
 ### Using 3D programs like Blender and Unity to create models for free
+* Essentially the same as 2D but in 3D
 
 -----
 
