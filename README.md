@@ -1,11 +1,12 @@
 ![Practical Chemistry](Resources/logo.png)
+----
 # Practical Chemistry
-Making money and experimenting as an individual by using chemistry
-
+A guide to making money and experimenting as an individual by using chemistry.
+------
 ## Organic Chemistry
 ### Chemistry of Food
-Studying compounds foods is more efficient than studying isolated molecules. Akin to lifting weights, it's more efficient to do compound exercises first and then study the isolation exercies.
-By doing this, there is reason to experiment and isolate compounds and molecules.
+Studying compound foods is more efficient than studying isolated molecules. Akin to lifting weights, it's more efficient to do compound exercises first and then study the isolation exercies.
+By doing this, there is reason and intuition to experiment and isolate compounds and molecules.
 #### Protein
 1. Vegetable Proteins
 2. Meat Proteins
@@ -13,36 +14,71 @@ By doing this, there is reason to experiment and isolate compounds and molecules
 Or better yet explained
 
 1. Incomplete Proteins
-2. Complete Proteins
-#### Beauty and Body Products
-* Natural Compounds for facial skin care
-* Natural compounds for body care ie. sunscreen and lotion
-#### Whats in your body
-#### Non-Edible Oils
+------
+#### Carbohydrates
+1. Simple Carbohydrates
+2. Complex Carbohydrates
+------
+#### Fat
+##### Bad Fats
+1. Saturated
+2. Trans
+##### Good Fats
+1. Monounsaturated
+2. Polyunsaturated 
+------
+Food Oils
+* Edible oils ie. fish oils
+* Cooking oils ie. peanut oils
+------
+### Beauty and Body Products
+1. Starting with the basics
+	* Natural Compounds for facial skin care
+	* Natural compounds for body care ie. sunscreen and lotion
+	* Compounds for nails and dying hair
+2. Working at barbershops, nail salons, beauty parlors, and massage rooms
+------
+### Whats in your body
+------
+### Non-Edible Oils
 Used for planes, trains, and automobiles
 * Lubricants for oils like grease
 * Petroleum, fuel and gas => Their cost => Working at a gas station
-#### Painting
+------
+### Painting
 * Painting houses, appliances, and metal
 * Stripping, priming, and finishing wood
-#### Types of Compostable Trash
+------
+### Types of Compostable Trash
 
+-----
 ## Inorganic Chemistry
+------
 ### Tools in construction and the cost just like Minecraft
 * Materials to handle water, dirt, sand, concrete, minerals, and metal
+------
 ### Mechanical things and the most effective solutions for transportation
 * Bicycles and their materials
 * Cars and their materials
 * Being a professional truck driver
+------
 ### 3D Printing and Choosing the best materials for the cost
 * Home 3D Printing and 3D programs to create tools
 	* Sports Equipment
 	* Useful everyday equipments
 * Being a CAD/CAM Designer
+------
+### Maids and janitors
+* Bleach
+* Disinfectants
+* All purpose
+* Baking Soda
+------
 #### Types of Recyclable Trash
-
+------
 
 ## Electrochemistry
+-----
 ### Designing Energy Systems Related to Renewable Energy
 * Affordable ways to create a simple renewable energy system for Home Depot
 	* Solar Panels
@@ -51,6 +87,7 @@ Used for planes, trains, and automobiles
 		* Parts of batteries and their ability to store electricity
 	* Wires
 		* Types of and their ability to handle electricity
+------
 ### Components of a Computer
 * Parts of Computer
 	* CPU
@@ -59,15 +96,16 @@ Used for planes, trains, and automobiles
 	* Motherboards
 	* Circuits
 	* Fans
+------
 #### Types of Recyclable Trash
+
+------
 
 ## Quantum Chemistry and Physics
 ### Using 2D programs like javascript to create models for free
 ### Using 3D programs like Blender and Unity to create models for free
 
-
 -----
-
 
 Copyright (c) 2023 Eric Ung
 
