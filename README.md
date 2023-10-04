@@ -53,6 +53,9 @@ Figure out how much fat is needed not just for fitness but for brain activity. F
 		* Best polish and paint for nails
 		* Best dye for you
 2. Working at barbershops, nail salons, beauty parlors, and massage rooms
+
+
+![Isolation of Bromelain](Resources/isolationofbromelain.png)
 ------
 ### Non-Edible Oils
 Used for planes, trains, and automobiles
