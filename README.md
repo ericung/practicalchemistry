@@ -127,6 +127,8 @@ Used for planes, trains, and automobiles
 * Figure out how gravity works on a 2D plane
 ### Using 3D programs like Blender and Unity to create models for free
 * Essentially the same as 2D but in 3D
+### Thinking about computational complexity by relating it to the age old physics problem
+![Classical and Quantum](Resources/ideaforclassicalandquantum.png)
 
 -----
 
